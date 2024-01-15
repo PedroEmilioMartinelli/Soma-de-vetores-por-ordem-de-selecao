@@ -1,0 +1,7 @@
+C:\DEV\C#\soma de vetres\soma de vetres\bin\Debug\soma de vetres.exe.config
+C:\DEV\C#\soma de vetres\soma de vetres\bin\Debug\soma de vetres.exe
+C:\DEV\C#\soma de vetres\soma de vetres\bin\Debug\soma de vetres.pdb
+C:\DEV\C#\soma de vetres\soma de vetres\obj\Debug\soma de vetres.csproj.AssemblyReference.cache
+C:\DEV\C#\soma de vetres\soma de vetres\obj\Debug\soma de vetres.csproj.CoreCompileInputs.cache
+C:\DEV\C#\soma de vetres\soma de vetres\obj\Debug\soma de vetres.exe
+C:\DEV\C#\soma de vetres\soma de vetres\obj\Debug\soma de vetres.pdb
